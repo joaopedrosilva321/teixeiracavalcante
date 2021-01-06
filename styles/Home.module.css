@@ -1,0 +1,39 @@
+
+.input{
+  width: 100%;
+  border: 1px solid;
+  padding: 4px 7px;
+  border-radius: 2px;
+}
+.margin{
+  margin: 5px;
+}
+.flex{
+  display: flex;
+}
+.placeSelf{
+  place-self: center;
+}
+.padding_5_10{
+  padding: 5px 10px;
+}
+.padding_5_0{
+  padding: 5px 0;
+}
+.padding{
+  padding: 10px;
+}
+.button{
+  border: 0;
+  outline: none;
+}
+.styleButtonSubmit{
+  background: #0cc665;
+  border: 1px solid;
+  padding: 7px;
+  border-radius: 7px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
